@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br>- 🔭 I’m currently working on AI, Machine Learning, and Computer Vision projects<br>- 🤝 I’m looking to collaborate on AI and Data Science projects<br>- 🌱 I’m currently learning Advanced Deep Learning, NLP, and MLOps<br>- 💬 Ask me about Python, Machine Learning, Computer Vision, and Data Science<br>- ⚡ Fun fact: I love building real-world AI systems that solve practical problems<br>
+## Hi there 👋<br><br>- 🔭 I’m currently working on AI, Machine Learning, and Computer Vision projects<br>- 🤝 I’m looking to collaborate on AI and Data Science projects<br>- 🌱 I’m currently learning Advanced Deep Learning, NLP, and MLOps<br>- 💬 Ask me about Python, Machine Learning, Computer Vision, and Data Science<br>- ⚡I love building real-world AI systems that solve practical problems<br>
 
 
 ## 🌐 Socials:
